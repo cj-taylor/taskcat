@@ -6,4 +6,4 @@ setuptools==40.4.3
 boto3==1.9.21
 botocore==1.12.21
 yattag==1.10.0
-PyYAML==3.13
+PyYAML==5.1
